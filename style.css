@@ -1,0 +1,11 @@
+.div-1{
+    height: 100vh;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    background-color: #ffbc40;
+}
+
+.div-2{
+    background-color: #fff;
+}
